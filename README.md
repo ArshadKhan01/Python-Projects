@@ -6,7 +6,9 @@ This repository holds code for GUI application with Python (Ver.3.10). Tkinter m
 
 **i) Billing System for Cafe**
 
-This GUI application assisted me in comprehending fundamental concepts of object-oriented interface in Python. Billing System for Cafe consists of three frames. First one is menu from which user can view the prices of each item present in Cafe. Second one consists of item list into which user can insert quantity of each item. Third frame generates and displays bill into which the totalled value of each item with respect to its quantity is considered.![billing software](https://user-images.githubusercontent.com/105267942/172858907-a30cc528-4aad-4bc8-921c-0189a17d6c5c.png)
+This GUI application assisted me in comprehending fundamental concepts of object-oriented interface in Python. Billing System for Cafe consists of three frames. First one is menu from which user can view the prices of each item present in Cafe. Second one consists of item list into which user can insert quantity of each item. Third frame generates and displays bill into which the totalled value of each item with respect to its quantity is considered.
+
+![billing software](https://user-images.githubusercontent.com/105267942/172858907-a30cc528-4aad-4bc8-921c-0189a17d6c5c.png)
 
 **ii) Calculator**
 
